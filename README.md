@@ -1,7 +1,6 @@
-# Python Examples
+# Python Short Scripts
 
-4 examples available.
-
+4 scripts available.
 
 ## Misc
 
