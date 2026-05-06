@@ -1,18 +1,9 @@
-# Live Streaming Transcription (Speech-to-Text)
+# Python Examples
 
-Real-time transcription via WebSocket, receiving results as audio is spoken from BBC live services.
+2 examples available.
 
-## What it does
 
-Opens a WebSocket connection to Deepgram's streaming API and sends audio chunks in real time. As audio arrives, Deepgram returns transcribed results.
+## Speech-to-Text
 
-## Prerequisites
-
-- Python 3.10+
-- Set `DEEPGRAM_API_KEY` environment variable
-
-# Run
-
-```bash
-python DG_BBC_streaming.py
-```
+- [DG_BBC_steraming](speech-to-text/)
+- [DG_Groq_agent](agent/)
