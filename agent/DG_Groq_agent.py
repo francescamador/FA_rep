@@ -1,4 +1,4 @@
-# Voice agent example using Deepgram's SDK and Groq as LLM
+# Voice agent example using Deepgram's SDK and Groq as LLM v2
 # Import dependencies and set up the main function
 import os
 import wave
