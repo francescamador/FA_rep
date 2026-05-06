@@ -3,7 +3,7 @@
 3 examples available.
 
 
-## Speech-to-Text
+## Misc
 
 - [DG_BBC_steraming](speech-to-text/)
 - [DG_Groq_agent](agent/)
